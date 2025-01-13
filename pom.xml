@@ -20,7 +20,7 @@
     <micronaut.version>3.2.3</micronaut.version>
     <exec.mainClass>com.example.Application</exec.mainClass>
     <micronaut.runtime>netty</micronaut.runtime>
-    <jte.version>1.12.1</jte.version>
+    <jte.version>3.1.16</jte.version>
   </properties>
 
   <repositories>
